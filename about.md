@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey everyone, Thami here aka [Arch]Yoshi, I am passionate software craftsman currently working at [La Combe Du Lion Vert](http://la-combe-du-lion-vert.fr/), an awesome company by the way (contact me if you're developer to and want to level up your career by joining us).
+I love learning best practices, improve my knowledge, read and discover new things, whether it's languages, frameworks, or simply new features in languages.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I mainly work in java, and recently I started learning python. And I am interested in lot of other things, so follow me and let's improve and make better programs together.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site is going to be my place for sharing content I create with all of you ☺
