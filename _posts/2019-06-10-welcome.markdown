@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  ""
+title:  "Welcome"
 date:   2019-06-10 10:00:00 +0200
-categories: welcome
+categories: main
 ---
 Welcome to my personal site, it's still under construction though ^^!
 
