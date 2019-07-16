@@ -5,7 +5,7 @@ date:   2019-06-22 10:00:00 +0200
 categories: main
 ---
 
-![AM DDD Affiche](/assets/amddd_affiche.jpeg)
+![AM DDD Affiche](/assets/images/amddd_affiche.jpeg)
 
 
 La seconde édition de l'après-midi du DDD ou [#AMDDD](https://twitter.com/hashtag/AMDDD?src=hash) s'est déroulée le 20 juin 2019 dans les locaux de Microsfost à Issy-Les-Moulineaux. L'événement a été organisé par [42Skillz](http://www.42skillz.com) avec, comme animateurs, [Bruno Boucard](https://twitter.com/brunoboucard) et [Thomas Pierrain](https://twitter.com/tpierrain), à leurs côté plusieurs invités, je cite : Xavier DETANT, Chloé GRANDIN, Radwane HASSEN, Audrey NEVEU, Pablo PERNOT et Alexandre VICTOOR.
@@ -28,4 +28,4 @@ en utilisant un maximum de moyens visuels afin d'illustrer correctement les idé
 - Si on remarque que notre application est souvent hors service, et que la raison provient souvent de nos dépendances, il faut chercher différent moyens de s'en prémunir, il y a par exemple l'utilisation de l'[Architecture Hexagonale](https://java-design-patterns.com/patterns/hexagonal/) d'un côté, mais encore une autre manière d'y remédier est le [Anti Corruption Layer](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
 
 Je vous laisse donc redécouvrir cette belle après midi en vidéo ici:
-{% youtube "https://www.youtube.com/watch?v=PIo6jUl4VO8" %}
+{% include youtubePlayer.html id="PIo6jUl4VO8" %}
