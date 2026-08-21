@@ -7,7 +7,8 @@ categories: programming
 
 ![Imports example](/assets/images/imports_example.png)
 
-# 🚨 Stop the Import Chaos: A Developer's Guide to Taming Your IDE
+# 🚨 Stop the Import Chaos 🚨
+##A Developer's Guide to Taming Your IDE
 
 *Because nobody wants to review a PR where half the diff is just import reshuffling.*
 
@@ -17,7 +18,7 @@ Have you ever proudly submitted a pull request, only for your reviewer to come b
 
 Fear not — In this blog post, I will show you how to configure IntelliJ IDEA and Eclipse so that your imports always follow a clean, consistent, agreed-upon layout across the whole team. One setup, no more import wars. 🕊️
 
-*You can thank me with a coffee [here](paypal.me/TInaflas) if this helped you saved time for you and your team ! * 😄
+*You can thank me with a coffee [here](https://paypal.me/TInaflas) if this helped you saved time for you and your team ! * 😄
 
 ---
 
@@ -137,7 +138,7 @@ Don't hesitate to comment with another subject you would like to see me post abo
 
 ---
 
-*If after reading this guide your imports are still scrambled — that's on you (or your teammates. I tried.* 😄
+*If after reading this guide your imports are still scrambled — that's on you (or your teammates). At least, I tried.* 😄
 
 
 
