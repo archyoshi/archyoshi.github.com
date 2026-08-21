@@ -15,7 +15,9 @@ categories: programming
 
 Have you ever proudly submitted a pull request, only for your reviewer to come back with: *"Why did all the imports change?"* You didn't touch them. Or did you? Your IDE did. Silently. Ruthlessly. Without asking.
 
-Fear not — this page will show you how to configure IntelliJ IDEA and Eclipse so that your imports always follow a clean, consistent, agreed-upon layout across the whole team. One setup, no more import wars. 🕊️
+Fear not — In this blog post, I will show you how to configure IntelliJ IDEA and Eclipse so that your imports always follow a clean, consistent, agreed-upon layout across the whole team. One setup, no more import wars. 🕊️
+
+*You can thank me with a coffee [here](paypal.me/TInaflas) if this helped you saved time for you and your team ! * 😄
 
 ---
 
@@ -72,8 +74,8 @@ Scroll down to the **Import Layout** section and set it up **in this exact order
 
 Still in the `Imports` tab, make sure these are configured:
 
-- **Class count to use import with '\*':** Set to a high number like `99` to **disable** wildcard imports.
-- **Names count to use static import with '\*':** Set to `99` as well.
+- **Class count to use import with '\*':** Set to a high number like `999` to **disable** wildcard imports.
+- **Names count to use static import with '\*':** Set to `999` as well.
 - Uncheck **"Layout static imports separately"** — we handle static placement ourselves via the layout above.
 
 ### Step 4 — Apply & Run
@@ -127,9 +129,11 @@ Rather than having every developer set this up manually (and inevitably someone 
 
 Import the file on your end, done. No excuses. 🎯
 
+Don't hesitate to comment with another subject you would like to see me post about !
+
 ---
 
-*If after reading this guide your imports are still scrambled — that's on you. We tried.* 😄
+*If after reading this guide your imports are still scrambled — that's on you (or your teammates. I tried.* 😄
 
 
 
