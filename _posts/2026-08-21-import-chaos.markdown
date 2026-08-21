@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Stop the Import Chaos: A Developer's Guide to Taming Your IDE"
+title:  "🚨 Stop the Import Chaos 🚨"
 date:   2026-08-21 12:00:00 +0200
 categories: programming
 ---
 
-![Imports example](/assets/images/imports_example.png)
+# A Developer's Guide to Taming Your IDE
 
-# 🚨 Stop the Import Chaos 🚨
-##A Developer's Guide to Taming Your IDE
+![Imports example](/assets/images/imports_example.png)
 
 *Because nobody wants to review a PR where half the diff is just import reshuffling.*
 
