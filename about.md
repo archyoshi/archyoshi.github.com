@@ -4,10 +4,19 @@ title: About Me
 permalink: /about/
 ---
 
-Hey everyone, Thami here aka [Arch]Yoshi, I am passionate software craftsman currently working at [La Combe Du Lion Vert](http://la-combe-du-lion-vert.fr/), an awesome company by the way (contact me if you are a developer too and want to level up your career by joining us).
+👋 Hey everyone! I’m Thami, aka **[Arch]Yoshi**. 
 
-I love learning best practices, improve my knowledge, read and discover new things, whether it's languages, frameworks, or simply new features in languages.
+I’m an independent Tech Lead, Software Engineer, and Craftsman. Today, I run my freelance consulting practice, **Thinkertech**, where I help clients rethink their technical architecture, navigate complex engineering challenges, and ship better software. 🚀
 
-I mainly work in java, and recently I started learning python. And I am interested in lot of other things, so follow me and let's improve and make better programs together.
+My current focus revolves around **Kubernetes**, **AI integrations**, modern cloud architecture, and search engines. 🧠⚡ I believe great software isn't just about making things work—it's about clean code, solid engineering practices, and building systems that scale sustainably. ⚙️
 
-This site is going to be my place for sharing content I create with all of you ☺
+On this blog, you’ll find my hands-on experiments, small projects, and deep dives into:
+
+* 🛠️ **Tech Leadership & Architecture:** Real-world scenarios, team practices, and architectural decisions from the front lines.
+* ☁️ **Cloud & Infrastructure:** Kubernetes setups, containerization, and modern deployment workflows.
+* 🤖 **AI & Innovation:** Practical AI integrations, vector search, and emerging developer trends.
+* 🌐 **Open Source:** Documenting my goal to contribute more to open-source projects this year and sharing what I learn along the way.
+
+Whether you're here to talk code, explore new trends, or discuss engineering best practices, welcome! Let’s build better software together. 🤝✨
+
+You can also find my professional website here : (https://archyoshi.github.io)[https://archyoshi.github.io]
